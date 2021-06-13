@@ -47,7 +47,8 @@ console.log ("weather: " + weatherStatus);
 console.log (lineBreak); 
 console.log (">OVERALL STATUS");
 console.log (lineBreak); 
-console.log ("clear for takeoff");
+console.log ("clear for takeoff: ");
+console.log (totalMassKg < 781500);
 console.log (lineBreak); 
 console.log (lineBreak); 
 // When done, have your TA check your code.
